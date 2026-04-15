@@ -1,7 +1,7 @@
 package main
 
 import (
-	"BASICTEXTEDITORWITHHEXBIN-GO/functionality"
+	"basicTextEditorWithHexBin-go/functionality"
 	"fmt"
 	"io"
 	"os"
